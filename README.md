@@ -152,7 +152,7 @@ pip install pandas numpy scikit-learn scipy matplotlib seaborn nbformat nbconver
 You can explore the pre-rendered analysis directly by opening the Jupyter Notebook:
 
 ```bash
-jupyter notebook World_Happiness_Advanced_Clustering.ipynb
+jupyter notebook method_two.ipynb
 ```
 
 ---
